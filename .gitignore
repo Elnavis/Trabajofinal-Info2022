@@ -1,0 +1,3 @@
+.venv
+pagina/__pycache__
+db.sqlite3
