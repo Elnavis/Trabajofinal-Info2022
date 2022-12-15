@@ -4,7 +4,7 @@ Esto va a ser un blog para una fundación hecho con python y el framework django
 
 Acá un tablero con las tareas pendientes en la rama main.
 
-(Tablero con las tareas)[https://github.com/users/tossuttid/projects/1/views/1]
+[Tablero con las tareas](https://github.com/users/tossuttid/projects/1/views/1)
 
 Si quieren hacer la suya y trabajar por su cuenta, pueden armar otra rama y pushear ahí tranquilamente.
 
