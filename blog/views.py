@@ -2,4 +2,5 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("<h1>Holis mundo!</h1>")
+    context = {}
+    return render(request, "blog/index.html", context)
